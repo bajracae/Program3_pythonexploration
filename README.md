@@ -8,3 +8,5 @@
 - execute, output sent to stdout should first print out the contents of the 3 files
 - after printing the strings, print two random numbers 1 to 42 inclusive
 - last line (6th) print out the product of the two numbers
+# How to run
+- python3 mypython.py
